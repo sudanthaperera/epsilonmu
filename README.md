@@ -1,2 +1,2 @@
-# shiba
+# Shiba
 FDTD program
