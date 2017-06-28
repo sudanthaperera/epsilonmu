@@ -1,2 +1,2 @@
-# Shiba
+# epsilonmu
 FDTD program
