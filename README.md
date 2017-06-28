@@ -1,2 +1,2 @@
-# epsilonmu
+# epsilonmu (\epsilon \mu)
 FDTD program
