@@ -1,2 +1,2 @@
 # epsilonmu 
-$\beta$ is a general purpose FDTD library in Python.
+epsilonmu is a general purpose FDTD library in Python.
